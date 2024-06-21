@@ -11,6 +11,7 @@ Claude-React-Jumpstart: A step-by-step guide to running Claude-generated React c
 ---
 
 ## Getting Started
+You can use the example provided to learn the process. Before beginning the following steps, remove the my-app folder so you can recreate it.
 
 ### Step 1: Create new React app with Vite
 
@@ -108,8 +109,10 @@ function App() {
 export default App
 ```
 
-### 5. Run the Codebase
+### 5. Run the App
 
 ```bash
 npm run dev
 ```
+
+[Example App Online](./assets/img/demo_img.png)
