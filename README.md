@@ -6,7 +6,7 @@ Claude recently released Artifacts, which can compile code in a dedicated window
 
 [![Project Demo](https://img.youtube.com/vi/oRh_tVdgjB8/0.jpg)](https://www.youtube.com/watch?v=oRh_tVdgjB8)
 
-Claude-React-Jumpstart: A step-by-step guide to running Claude-generated React code locally.
+> Claude-React-Jumpstart: A step-by-step guide to running Claude-generated React code locally.
 
 ---
 
@@ -116,4 +116,4 @@ npm run dev
 ```
 
 ![Example App Online](./assets/img/demo_img.png)
-> Example App with LLMModel.jsx Online
+Example App with LLMModel.jsx Online
