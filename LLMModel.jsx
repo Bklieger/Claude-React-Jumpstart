@@ -88,7 +88,7 @@ const LLMModel = () => {
   };
 
   return (
-    <Card className="w-[500px]">
+    <Card className="w-[500px] mx-auto">
       <CardHeader>
         <CardTitle>Enhanced LLM Interactive Model</CardTitle>
         <CardDescription>Explore how LLMs process and generate text</CardDescription>
