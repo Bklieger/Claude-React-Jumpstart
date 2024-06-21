@@ -81,7 +81,7 @@ npx shadcn-ui@latest init
 ```
 
 ### 3. Install Other Libraries and Components
-
+Choose your list of required components and libraries to download based upon the imports in your react file.
 ```bash
 npx shadcn-ui@latest add card button input
 npm install lucide-react
