@@ -1,12 +1,11 @@
+import RiskOfBiasAssessmentTool from './components/RiskOfBiasAssessmentTool'
 import './App.css'
-import LLMModel from './components/LLMModel'
 
 function App() {
   return (
     <>
-      <LLMModel/>
+      <RiskOfBiasAssessmentTool/>
     </>
   )
 }
-
-export default App
+export default App;
